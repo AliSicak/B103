@@ -4,3 +4,4 @@ git hub ikinci gun branch deneme
 branch deneme yapıyorum
 branch main  deneme  tekrar yapıyorum
 ali branch i
+yeni birsey ekledim ali branchi
